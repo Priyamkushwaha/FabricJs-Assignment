@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FabricJs-Assignment/static/css/main.542afd7f.css",
+    "main.js": "/FabricJs-Assignment/static/js/main.d3c293c7.js",
+    "index.html": "/FabricJs-Assignment/index.html",
+    "main.542afd7f.css.map": "/FabricJs-Assignment/static/css/main.542afd7f.css.map",
+    "main.d3c293c7.js.map": "/FabricJs-Assignment/static/js/main.d3c293c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542afd7f.css",
+    "static/js/main.d3c293c7.js"
+  ]
+}
